@@ -6,3 +6,4 @@ pip install --upgrade pip
 pip install notebook
 pip install scikit-learn numpy pandas matplotlib seaborn statsmodels
 
+
